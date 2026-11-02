@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sylu Nurbakhtina
 ========================================================================================================================================
 
-Frontend-developer
-------------------
+# Frontend-developer
 
 # 💫 About Me:
 I've been doing coding for more than 4 years. I studied at the university, that's when I fell in love with frontend development<br><br>🌍  I'm based in Kazan<br>✉️  You can contact me at [https://t.me/silunus]<br>🤝  I'm open to collaborating on interesting projects or ideas<br>
